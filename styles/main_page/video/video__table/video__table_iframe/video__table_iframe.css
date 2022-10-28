@@ -1,0 +1,7 @@
+.video__table_iframe {
+    width: 515px;
+    height: 316px;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+}

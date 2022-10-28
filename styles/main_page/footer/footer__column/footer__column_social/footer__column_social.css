@@ -1,0 +1,6 @@
+.footer__column_social {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: white;
+}

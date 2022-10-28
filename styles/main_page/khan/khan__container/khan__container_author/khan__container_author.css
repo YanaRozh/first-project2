@@ -1,0 +1,9 @@
+.khan__container_author {
+    margin-top: 100px;
+    ;
+    display: flex;
+    position: relative;
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+}

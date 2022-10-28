@@ -1,0 +1,6 @@
+.footer__column_copyright {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-basis: 771px;
+}

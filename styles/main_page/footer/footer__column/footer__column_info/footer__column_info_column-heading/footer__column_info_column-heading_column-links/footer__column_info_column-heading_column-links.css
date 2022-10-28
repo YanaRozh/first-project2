@@ -1,0 +1,9 @@
+.footer__column_info_column-heading_column-links {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    line-height: 25px;
+    font-size: 18px;
+    font-style: normal;
+}

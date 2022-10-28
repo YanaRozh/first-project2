@@ -1,0 +1,7 @@
+.resources__logo-zone_pic {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 270px;
+    height: 38px;
+}
